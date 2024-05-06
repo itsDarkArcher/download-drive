@@ -1,0 +1,12 @@
+# Ignorar la carpeta del entorno virtual
+download/
+
+# Ignorar las claves de las API de Google
+client_secret_GoogleCloudDemo.json
+
+# Ignorar el archivo pickle
+*.pickle
+
+#ignorar pycache 
+*.pyc
+
